@@ -10,7 +10,7 @@
 "user": ["oYMlh6Qo4pJPmm6hWf3iOkfIM1Y8"], 
 # 信息配置
 # 和风天气apikey
-"weather_key": "24ed20abab7c46b1a97be2ad1f224a9b",
+"weather_key": "8066648ed9834273a53afc2be93f97ee",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "上蔡",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
